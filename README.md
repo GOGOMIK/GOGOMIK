@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**GOGOMIK/GOGOMIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# profile
+A 'pure'Chengduese ,born and learn all in this big big city 
+used to be top students and enter the Shishi high school
 
-Here are some ideas to get you started:
+atypical TCM student and turn to bio since 2024 
+# carreer
+* medication learner who good at surgery 
+* trying to learn bioinformation and want to be a scientist or engineer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# projects
+*struggling to do the first project about "FAERS"database 
+
+#
+* preparing master degree application for bme paris 
+* ielts learner and prepare to test 2024.05 
+# skill set(this may be hobbies set yet )
+* butterfly strok lover
+* guiter lover but don't have a good guitar
+* piano lover but can only Press the keys 
+* want to be a amateur music director but have no skill trees on that yet
