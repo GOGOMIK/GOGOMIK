@@ -20,4 +20,5 @@ atypical TCM student and turn to bio since 2024
 * guiter lover but don't have a good guitar
 * piano lover but can only Press the keys 
 * want to be a amateur music director but have no skill trees on that yet
-https://profile-counter.glitch.me/GOGOMIK/count.svg
+
+![Visitor Count](https://profile-counter.glitch.me/GOGOMIK/count.svg)
