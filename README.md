@@ -36,12 +36,12 @@ I treat knowledge as an asset: I distill, systematize, and ship it as public not
     <td width="50%">
       <h3>💊 药企 BD 新人学习手册</h3>
       <p>从 107 篇一线从业者笔记提炼、去噪、重组后的系统化入门读物——岗位认知 · 估值尽调 · 谈判 · 出海。</p>
-      <p><a href="https://gogomik.github.io/knowledge-hub/pharma-bd-handbook.html">📖 在线阅读 ↗</a></p>
+      <p><a href="https://knowledge-hub-6fq.pages.dev/pharma-bd-handbook">📖 在线阅读 ↗</a></p>
     </td>
     <td width="50%">
       <h3>📚 个人知识管理体系指南</h3>
       <p>从「收藏即遗忘」到「知识可调用」——三层架构 · PARA 分类 · 复盘模板 · 30 天养成计划。</p>
-      <p><a href="https://gogomik.github.io/knowledge-hub/knowledge-management-guide.html">📖 在线阅读 ↗</a></p>
+      <p><a href="https://knowledge-hub-6fq.pages.dev/knowledge-management-guide">📖 在线阅读 ↗</a></p>
     </td>
   </tr>
   <tr>
