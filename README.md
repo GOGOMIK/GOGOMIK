@@ -48,7 +48,7 @@ I treat knowledge as an asset: I distill, systematize, and ship it as public not
     <td width="50%" colspan="2">
       <h3>🗂 Career & Wealth Viewpoints</h3>
       <p>个人职业-财富观点库，长周期迭代 · 用所有权思维看成长与资产。</p>
-      <p><a href="https://gogomik.github.io/career-wealth-notes/">📖 在线阅读 ↗</a></p>
+      <p><a href="https://career-wealth-notes.pages.dev/">📖 在线阅读 ↗</a></p>
     </td>
   </tr>
 </table>
